@@ -14,6 +14,7 @@
 
 Meu nome é Karoline mas me chamam de Karol. 
 
+![Karol](https://github.com/user-attachments/assets/7d42cbf5-a06f-4229-a9cc-37cf56c86e5d)
 
 ATIVIDADES (API)
 
