@@ -12,6 +12,8 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lari104/LightYagami /output/github-contribution-grid-snake.svg">
 </picture>
 
+Meu nome é Karoline mas me chamam de Karol. 
+
 
 ATIVIDADES (API)
 
