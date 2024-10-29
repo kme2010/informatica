@@ -14,9 +14,11 @@
 
 Meu nome é Karoline mas me chamam de Karol. 
 
-![Karol](https://github.com/user-attachments/assets/7d42cbf5-a06f-4229-a9cc-37cf56c86e5d)
+![Karol](https://github.com/user-attachments/assets/7d42cbf5-a06f-4229-a9cc-37cf56c86e5d) Este portifólio foi criado para apresentar todas atividades desenvolvidas em sala de aula. E também o 
+Projeto de API desenvolvido na Fatec
 
-ATIVIDADES (API)
+
+
 
 
 
