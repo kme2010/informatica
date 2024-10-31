@@ -12,10 +12,70 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lari104/LightYagami /output/github-contribution-grid-snake.svg">
 </picture>
 
-Meu nome é Karoline mas me chamam de Karol. 
+## Autores
+![Captura de tela 2024-10-31 204002](https://github.com/user-attachments/assets/d5a0dc43-ce5e-4f14-9f50-0f46b2d09b24)
 
-![Karol](https://github.com/user-attachments/assets/7d42cbf5-a06f-4229-a9cc-37cf56c86e5d) Este portifólio foi criado para apresentar todas atividades desenvolvidas em sala de aula. E também o 
+## 🚀 Sobre mim
+ meu nome é Karoline. Sou cristã e encontro muita paz e inspiração ao ouvir louvores. Atualmente, estou estudando Gestão de Produção Industrial na Fatec, onde busco adquirir conhecimentos e habilidades que me preparem para o mercado de trabalho.
+
+Sou mãe do Enzo, que é uma das maiores alegrias da minha vida. Acredito que a maternidade me ensinou muito sobre responsabilidade e amor.
+
+Uma das minhas paixões é estar em contato com a natureza. Adoro casas no campo, onde posso desfrutar da tranquilidade e beleza do ambiente natural. Acredito que a natureza nos conecta e traz um equilíbrio essencial para o dia a dia.
+
+Estou sempre aberta a novas experiências e aprendizados!
+
+
+## Aprendizados
+
+Em busca de saber sobre a organização industrial,
+Caminho firme, com o olhar no futuro,
+Abraçando tecnologias que trazem bem-estar,
+Sonhando com um mundo mais justo e seguro.
+
+Na faculdade de Gestão, cultivo minha paixão,
+Com empenho e dedicação, traço meu destino,
+Cada objetivo é um passo, uma nova lição,
+Para que juntos possamos florescer, como um hino.
+
+A cada dia, busco crescer e aprender,
+Com esperança no coração e luz na mente,
+Transformando o presente, por todos querer,
+Para um amanhã brilhante, sempre à frente.
+
+
+
+
+## ATIVIDADES DE INFORMATICA 
+Este portifólio foi criado para apresentar todas atividades desenvolvidas em sala de aula. E também o 
 Projeto de API desenvolvido na Fatec
+
+
+
+A disciplina de informática aplicada à administração envolve o uso de ferramentas para análise de dados e gestão eficiente.
+
+Excel: Fundamental para manipulação de dados, criação de tabelas dinâmicas, gráficos e relatórios. Ajuda na organização e análise de informações financeiras e operacionais.
+
+Power BI: Ferramenta de visualização de dados que permite transformar dados brutos em relatórios interativos e dashboards. Facilita a tomada de decisões com insights visuais e análises em tempo real.
+
+Gestão de Dados: Aprender sobre coleta, armazenamento e análise de dados para otimizar processos administrativos e melhorar a eficiência.
+
+
+
+
+
+![dia-da-informatica-linkedin](https://github.com/user-attachments/assets/4c7af030-5842-4e89-9d99-a264a2e1d158)
+
+
+
+
+## Referência
+
+ - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
+
+
 
 
 
