@@ -70,11 +70,6 @@ Gestão de Dados: Aprender sobre coleta, armazenamento e análise de dados para 
 
 ## Referência
 
- - [Atividade 3 power BI](https://github.com/kme2010/informatica/blob/main/Power%20BI%203%20(1).pbix)
- - [atividade 4 power bi](https://github.com/kme2010/informatica/blob/main/Power%20BI%204.pbix%20atu..pbix)
- - [projeto informatica](https://github.com/kme2010/informatica/blob/main/Projeto%20Inform%C3%A1tica.1%20(3).xlsb%202.xlsb)
- - [atividade power bi 1](https://github.com/kme2010/informatica/blob/main/power%20bi%201.pbix)
- - [trabalho de informatica](https://github.com/kme2010/informatica/blob/main/Trabalho%20Informatica.xlsx%201.xlsx)
 
 
 
