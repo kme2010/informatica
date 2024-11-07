@@ -63,8 +63,7 @@ Esse trabalho fiz em grupo com o tema de autoapresentação. A atividade tinha c
 ![Captura de tela 2024-11-07 141305](https://github.com/user-attachments/assets/48e67614-734a-41a2-aade-2fbd07654f24)
 
 
-Realizamos um trabalho no Excel utilizando fórmulas essenciais para análise de dados: SOMA, CONT.SE, SOMASE e SE. O objetivo era aplicar essas funções para resolver questões práticas e facilitar o tratamento de grandes volumes de dados.
-
+Desenvolvemos uma tarefa no Excel utilizando fórmulas fundamentais para análise de dados, como SOMA, CONT.SE, SOMASE e SE. O intuito era aplicar essas funções para resolver problemas reais e otimizar o processamento de grandes quantidades de informação.
 Arquivo - https://github.com/ana45678/Informatica/blob/main/Trabalho%20Informatica.xlsx
 
 3º - Excel
@@ -72,21 +71,20 @@ Arquivo - https://github.com/ana45678/Informatica/blob/main/Trabalho%20Informati
 ![Captura de tela 2024-11-07 141444](https://github.com/user-attachments/assets/defe534d-8ba5-4c8d-b5e4-b871bda0cf30)
 
 
-Coletamos dados de sites com informações abertas e elaboramos cinco perguntas sobre eles. Usamos fórmulas no Excel, como SOMA, CONT.SE, SOMASE e MÉDIASE, para responder às perguntas e criar gráficos que ilustram os resultados calculados.
+Coletamos informações de sites com dados públicos e formulamos cinco questões com base nesses dados. Utilizamos fórmulas no Excel, como SOMA, CONT.SE, SOMASE e MÉDIASE, para calcular as respostas e gerar gráficos que visualizam os resultados obtidos.
 
 Arquivo - https://github.com/ana45678/Informatica/blob/main/Projeto%20Inform%C3%A1tica.1%20(3).xlsb
 
 4º - Power BI - 1º Trabalho
 
-Elaborei um arquivo contendo indicadores e links para figuras representativas de cada indicador. Utilizei o Power BI para organizar esses dados, permitindo que cada indicador estivesse relacionado à sua respectiva imagem de forma dinâmica. O uso do Power BI foi essencial para criar visualizações interativas, facilitando a análise e interpretação dos indicadores com suas figura.
+Criei um arquivo com indicadores e links para imagens representativas de cada um deles. Utilizei o Power BI para organizar esses dados, permitindo que cada indicador fosse vinculado à sua imagem correspondente de maneira dinâmica. O uso do Power BI foi fundamental para desenvolver visualizações interativas, tornando a análise e interpretação dos indicadores, junto às suas imagens, mais simples e eficientes.
 
 Arquivo - https://github.com/ana45678/Informatica/blob/main/Trabalho%202.pbix
 
 
 5º - Power BI - 2º Trabalho 
 
-Acessei um repositório de dados abertos e criei cinco perguntas com base nas informações coletadas. No Power BI, desenvolvi visualizações que respondem a essas perguntas e organizei tudo em um dashboard com título.
-
+Acessei um repositório de dados abertos e elaborei cinco perguntas com base nas informações obtidas. No Power BI, criei visualizações que respondem a essas questões e organizei tudo em um dashboard, incluindo um título para cada seção.
 Arquivo - https://github.com/ana45678/Informatica/blob/main/info.pbix
 ![image](https://github.com/user-attachments/assets/2f86db95-5dc5-4217-b2a2-9a0de652a6b3)
 
@@ -103,7 +101,7 @@ Arquivo - https://github.com/ana45678/Informatica/blob/main/Power%20BI%203.pbix
 
 7º - Power BI - 4º Trabalho
 
-Utilizei a tabela de atividades passadas para analisar o desempenho e estabelecer três metas principais a serem atingidas. Em seguida, desenvolvi visualizações de KPIs no Power BI que monitoram essas metas, permitindo avaliar facilmente se foram alcançadas.
+Analisando a tabela de atividades anteriores, avaliei o desempenho e defini três metas principais a serem alcançadas. Em seguida, criei visualizações de KPIs no Power BI para acompanhar o progresso dessas metas, facilitando a avaliação de seu cumprimento.
 
 Arquivo - https://github.com/ana45678/Informatica/blob/main/Power%20BI%204.pbix%20atu.%201.pbix.4.pbix
 Este portifólio foi criado para apresentar todas atividades desenvolvidas em sala de aula. E também o 
