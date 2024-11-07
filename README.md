@@ -105,9 +105,11 @@ Analisando a tabela de atividades anteriores, avaliei o desempenho e defini trê
 
 Este portifólio foi criado para apresentar todas atividades desenvolvidas em sala de aula. E também o 
 Projeto de API desenvolvido na Fatec
-![image](https://github.com/user-attachments/assets/fb42b65b-29e5-4e5b-a225-9e11278a5aa3)
-![image](https://github.com/user-attachments/assets/01cc9eac-96d8-4c46-a6e7-2b18aa2715fa)
-![image](https://github.com/user-attachments/assets/4c6a6c20-5891-4907-8121-dce8ac8a347c)
+
+![image](https://github.com/user-attachments/assets/f09b18dd-1570-4db4-b544-fcc3ce979dda)
+![image](https://github.com/user-attachments/assets/04814561-110a-454d-aec3-71a56859b143)
+![image](https://github.com/user-attachments/assets/b6bb2bc3-1bfc-4c73-80b7-c4d5162a2246)
+
 
 
 
