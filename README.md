@@ -88,6 +88,8 @@ Arquivo - https://github.com/ana45678/Informatica/blob/main/Trabalho%202.pbix
 Acessei um repositório de dados abertos e criei cinco perguntas com base nas informações coletadas. No Power BI, desenvolvi visualizações que respondem a essas perguntas e organizei tudo em um dashboard com título.
 
 Arquivo - https://github.com/ana45678/Informatica/blob/main/info.pbix
+![image](https://github.com/user-attachments/assets/2f86db95-5dc5-4217-b2a2-9a0de652a6b3)
+
 
 
 6º - Power BI - 3º Trabalho
@@ -95,6 +97,8 @@ Arquivo - https://github.com/ana45678/Informatica/blob/main/info.pbix
 Utilizando o arquivo anexado, produzi um dashboard que mostra o KPI do total de itens vendidos, destacando o volume e permitindo fácil acompanhamento do desempenho.
 
 Arquivo - https://github.com/ana45678/Informatica/blob/main/Power%20BI%203.pbix
+![image](https://github.com/user-attachments/assets/891bd3a6-c9d4-4013-846e-29f05d08ecd3)
+
 
 
 7º - Power BI - 4º Trabalho
@@ -104,6 +108,10 @@ Utilizei a tabela de atividades passadas para analisar o desempenho e estabelece
 Arquivo - https://github.com/ana45678/Informatica/blob/main/Power%20BI%204.pbix%20atu.%201.pbix.4.pbix
 Este portifólio foi criado para apresentar todas atividades desenvolvidas em sala de aula. E também o 
 Projeto de API desenvolvido na Fatec
+![image](https://github.com/user-attachments/assets/fb42b65b-29e5-4e5b-a225-9e11278a5aa3)
+![image](https://github.com/user-attachments/assets/01cc9eac-96d8-4c46-a6e7-2b18aa2715fa)
+![image](https://github.com/user-attachments/assets/4c6a6c20-5891-4907-8121-dce8ac8a347c)
+
 
 
 
