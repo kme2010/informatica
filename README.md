@@ -64,7 +64,6 @@ Esse trabalho fiz em grupo com o tema de autoapresentação. A atividade tinha c
 
 
 Desenvolvemos uma tarefa no Excel utilizando fórmulas fundamentais para análise de dados, como SOMA, CONT.SE, SOMASE e SE. O intuito era aplicar essas funções para resolver problemas reais e otimizar o processamento de grandes quantidades de informação.
-Arquivo - https://github.com/ana45678/Informatica/blob/main/Trabalho%20Informatica.xlsx
 
 3º - Excel
 
@@ -73,19 +72,19 @@ Arquivo - https://github.com/ana45678/Informatica/blob/main/Trabalho%20Informati
 
 Coletamos informações de sites com dados públicos e formulamos cinco questões com base nesses dados. Utilizamos fórmulas no Excel, como SOMA, CONT.SE, SOMASE e MÉDIASE, para calcular as respostas e gerar gráficos que visualizam os resultados obtidos.
 
-Arquivo - https://github.com/ana45678/Informatica/blob/main/Projeto%20Inform%C3%A1tica.1%20(3).xlsb
+
 
 4º - Power BI - 1º Trabalho
 
 Criei um arquivo com indicadores e links para imagens representativas de cada um deles. Utilizei o Power BI para organizar esses dados, permitindo que cada indicador fosse vinculado à sua imagem correspondente de maneira dinâmica. O uso do Power BI foi fundamental para desenvolver visualizações interativas, tornando a análise e interpretação dos indicadores, junto às suas imagens, mais simples e eficientes.
 
-Arquivo - https://github.com/ana45678/Informatica/blob/main/Trabalho%202.pbix
+
 
 
 5º - Power BI - 2º Trabalho 
 
 Acessei um repositório de dados abertos e elaborei cinco perguntas com base nas informações obtidas. No Power BI, criei visualizações que respondem a essas questões e organizei tudo em um dashboard, incluindo um título para cada seção.
-Arquivo - https://github.com/ana45678/Informatica/blob/main/info.pbix
+
 ![image](https://github.com/user-attachments/assets/2f86db95-5dc5-4217-b2a2-9a0de652a6b3)
 
 
@@ -94,7 +93,7 @@ Arquivo - https://github.com/ana45678/Informatica/blob/main/info.pbix
 
 Utilizando o arquivo anexado, produzi um dashboard que mostra o KPI do total de itens vendidos, destacando o volume e permitindo fácil acompanhamento do desempenho.
 
-Arquivo - https://github.com/ana45678/Informatica/blob/main/Power%20BI%203.pbix
+
 ![image](https://github.com/user-attachments/assets/891bd3a6-c9d4-4013-846e-29f05d08ecd3)
 
 
@@ -103,7 +102,7 @@ Arquivo - https://github.com/ana45678/Informatica/blob/main/Power%20BI%203.pbix
 
 Analisando a tabela de atividades anteriores, avaliei o desempenho e defini três metas principais a serem alcançadas. Em seguida, criei visualizações de KPIs no Power BI para acompanhar o progresso dessas metas, facilitando a avaliação de seu cumprimento.
 
-Arquivo - https://github.com/ana45678/Informatica/blob/main/Power%20BI%204.pbix%20atu.%201.pbix.4.pbix
+
 Este portifólio foi criado para apresentar todas atividades desenvolvidas em sala de aula. E também o 
 Projeto de API desenvolvido na Fatec
 ![image](https://github.com/user-attachments/assets/fb42b65b-29e5-4e5b-a225-9e11278a5aa3)
